@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "migrate": "knex migrate:latest",
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Ryan Cromwell <ryan@heysparkbox.com>",
   "license": "MIT",
